@@ -1,6 +1,6 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=l20211610-svg/MMP2)
 
-# Práctica 2 — Avanze de simulaciones
+# Práctica 2 — Avance de simulaciones
 
 Repositorio académico de la asignatura **Modelado Matemático**, correspondiente a la **Maestría en Ciencias de la Ingeniería** del Tecnológico Nacional de México / Instituto Tecnológico de Tijuana. La práctica integra modelado mecanicista, análisis cualitativo de sistemas dinámicos no lineales, estimación de parámetros, simulación numérica y experimentación *in silico* en MATLAB y Simulink.
 
