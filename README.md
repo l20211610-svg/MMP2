@@ -14,25 +14,6 @@ El caso de estudio utiliza el sistema clásico de **Lotka–Volterra** para repr
 
 ---
 
-<a id="contenido"></a>
-## Contenido
-
-1. [Resumen](#resumen)
-2. [Objetivos](#objetivos)
-3. [Fuente y preparación de los datos](#datos)
-4. [Modelo matemático](#modelo)
-5. [Análisis matemático simplificado](#analisis)
-6. [Estimación de parámetros](#estimacion)
-7. [Métodos numéricos](#metodos)
-8. [Simulación con funciones ODE de MATLAB](#odes)
-9. [Simulación en Simulink](#simulink)
-10. [Flujo de trabajo computacional](#flujo)
-11. [Actividades y secciones del cuaderno MATLAB](#actividades)
-12. [Funciones auxiliares](#funciones)
-13. [Estructura del repositorio](#estructura)
-14. [Requisitos](#requisitos)
-15. [Reproducibilidad](#reproducibilidad)
-16. [Referencias](#referencias)
 
 ---
 
